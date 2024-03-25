@@ -1,1 +1,1 @@
-# HandsOn_machine_learning
+# Handwritten_digits_classification
