@@ -1,4 +1,7 @@
 global_env/
 .vscode/
 datasets/
+datasets
+/datasets
+/datasets/
 
